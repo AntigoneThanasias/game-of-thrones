@@ -83,8 +83,9 @@
 </blockquote>
 <!-- TemplateEndIf -->
 <ul>
-  <li><a href="../house-of-tyrell/index.html">House Tyrell</a></li>
-  </ul>
+  <li><a href="../house-of-tyrell/index.html">House Tyrell</a>
+</li>
+</ul>
 <!-- TemplateBeginIf cond="_document['Tyrell House']" -->
 <blockquote>
   <ul>
